@@ -1,2 +1,2 @@
-# coursera-test githud.io
+# coursera-test
 coursera-test repository
